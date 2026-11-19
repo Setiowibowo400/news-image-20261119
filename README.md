@@ -1,7 +1,12 @@
 # 19 November 2026 — The World in One Image
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Setiowibowo400/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Setiowibowo400/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 Entry for make.fun competition **news-image-20261119** — "Sum up 19 November's
 world news in one image" ($250, deadline 21 Nov 2026 07:00 WIB).
+Bounty page: https://make.fun/bounty/news-image-20261119
 
 ## The image
 
